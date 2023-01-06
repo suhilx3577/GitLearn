@@ -1,8 +1,12 @@
 #incldue<bits/stdc++.h>
 using namespace std;
-
+s
 void bubblesort(){
-	//
+
+}
+
+void quicksort(){
+
 }
 
 int main(){
