@@ -13,6 +13,9 @@ void mergesort(){
 
 }
 
+int count(){
+
+}
 
 int main(){
 	cout<<"Hello World"<<endl;
