@@ -12,8 +12,7 @@ void quicksort(){
 void mergesort(){
 
 }
- lala 
-ala
+
 
 int main(){
 	cout<<"Hello World"<<endl;
